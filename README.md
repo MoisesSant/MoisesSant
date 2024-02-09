@@ -1,7 +1,7 @@
 -  Hello!, I’m Moises Santos
 -  👨‍💻 I like programming, Frontend and a little Backend 
 -  I’m currently learning JavaScript, Html and Python
--  Pronouns: He/they
+-  Pronouns: He/Him
 -  Fun fact: I'm 16y
 
 <!---

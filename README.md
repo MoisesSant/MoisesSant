@@ -1,8 +1,8 @@
 -  Hello!, I’m Moises Santos
 -  👨‍💻 I like programming, Frontend and a little Backend 
--  I’m currently learning JavaScript, Html and Python
+-  I’m currently learning JavaScript, C++ and Python
 -  Pronouns: He/Him
--  Fun fact: I'm 16y
+-  Fun fact: I'm 17y
 
 <!---
 MoisesSant/MoisesSant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

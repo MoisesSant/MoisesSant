@@ -1,5 +1,5 @@
 -  Hello!, I’m Moises Santos
--  👨‍💻 I like programming, Frontend and a little Backend 
+-  👨‍💻 I like programming, Fullstack
 -  I’m currently learning English, JavaScript and Python
 -  Pronouns: He/Him
 -  Fun fact: I born in 2007
